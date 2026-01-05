@@ -104,9 +104,7 @@ Kod karta yüklendikten sonra **PE1** pinine bağlı LED'in ve **PE3** pinine ba
 
 <br>
 <p align="center">
-  <video src="assets/mixed.mp4" width="400" controls title="Buzzer ve LED Uygulaması">
-    Tarayıcınız video etiketini desteklemiyor.
-  </video>
+https://github.com/user-attachments/assets/e3dd36a2-b015-4f25-ae75-66fcd2238aae
   <br>
   <i>Video: Buton basınca sesli ve görüntü uyarısı.</i>
 </p>
