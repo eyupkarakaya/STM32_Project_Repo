@@ -38,7 +38,7 @@ Projeler hakkında sorularınız veya geliştirme önerileriniz için:
 ## 📬 İletişim
 Proje ile ilgili sorularınız veya geri bildirimleriniz için benimle iletişime geçebilirsiniz:
 
-[📧 Bana E-posta Gönder](mailto:karakayaeyp7@gmail.com)
+**Bana E-posta Gönder** :karakayaeyp7@gmail.com
 
 
 *Geliştirici: **Eyüp Karakaya** © 2025 - Tüm Hakları Saklıdır.*
