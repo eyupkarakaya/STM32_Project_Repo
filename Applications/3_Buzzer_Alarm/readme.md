@@ -105,8 +105,9 @@ Kodlar oluşturulduktan sonra `Core/Src/main.c` dosyasını açın.
 
 Kod karta yüklendikten sonra **PE4** pinine bağlı buzzer aktif ve pasif olarak sesli bir uyarı verecektir.
 
+
   <p align="center">
-  <video src="assets/buzzer_demo.mp4" width="400" controls title="Buzzer ve LED Uygulaması">
+  https://github.com/user-attachments/assets/09130f72-8a7f-4b38-ba5e-6dfd2a9bb148
     Tarayıcınız video etiketini desteklemiyor.
   </video>
   <br>
